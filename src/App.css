@@ -1,0 +1,86 @@
+.app{
+border: 2px solid #9C27B0;
+height:600px;
+width: 90%;
+margin: auto;
+margin-top: 10px;
+background-color:greenyellow; 
+}
+.dasboard-container{
+  width: 90%;
+  height: 85%;
+  margin: auto;
+  border: 2px solid royalblue;
+  margin-top: 15px;
+  background-color: aliceblue;
+}
+.dashboard-heading{
+  width: 90%;
+  height: 18%;
+  bottom: 0px;
+  margin: 10px;
+  font-weight: bold;
+  color: #E91E63;
+}
+.document-length{
+float: right;
+margin-right: 15px;
+}
+.dashboard-search{
+  width: 100%;
+  border-bottom: 2px solid royalblue;
+  border-top: 2px solid royalblue;
+  height: 15%;
+  bottom: 0px;
+  margin-top: 10px;
+  color: #9C27B0;
+    font-weight: bold;
+    text-align: center
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, td, th {
+  border: 1px solid greenyellow;
+}
+th, td {
+  padding: 10px 0px;
+  width: 12.5%;
+  height: 40px;
+  text-align: center;
+}
+.dasboard-bottom{
+  width: 100%;
+  border-top: 2px solid greenyellow;
+  height: 10%;
+  bottom: 0px;
+  margin-top: 10px;
+  background-color: #9C27B0;
+  text-align: center;
+}
+.count-one{
+  margin: 5px 35px;
+  line-height: 52px;
+  font-size: 35px;
+  color: #FFEB3B;
+  display: inline-block;
+  cursor: pointer;
+}
+.right-icon{
+  display: inline-block;
+  margin: 18px 5px;
+  cursor: pointer;
+}
+.update-document{
+  height: 77%;
+  width: 14%;
+  right: 0px;
+  top: 26px;
+  margin-right: 5px;
+  position: absolute;
+  /* border: 1px solid red; */
+  background-color: #9C27B0;
+
+}
